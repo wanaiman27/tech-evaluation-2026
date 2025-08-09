@@ -1,2 +1,3 @@
-# tech-evaluation-2026
-Technical Evaluation for Year 2026
+# Technical Evaluation 2026
+
+Fork this repository, make any changes and submit a pull request. Simple task.
